@@ -20,7 +20,7 @@ function defaultCSettings() {
       ip = res.ip;
       // get The city
       fetch(
-        `http://api.ipstack.com/${ip}?access_key=18768508565c06bc139341d1337c1672`
+        `http://api.ipstack.com/${ip}?access_key=8bfe1ca814f033cd9e2fa9c96660fcb0`
       )
         .then((city) => city.json())
         .then((city) => {
