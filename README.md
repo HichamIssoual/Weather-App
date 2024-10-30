@@ -24,3 +24,5 @@ Contributions are welcome! Feel free to open an issue or submit a pull request.
 
 ## Contact
 For questions or feedback, please reach out to [hichamissoual.one@gmail.com].
+## demo live
+https://hichamissoual.github.io/Weather-App/
